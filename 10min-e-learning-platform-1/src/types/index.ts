@@ -1,0 +1,1 @@
+// This file is intended to define TypeScript types and interfaces used throughout the application.

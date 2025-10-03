@@ -1,0 +1,81 @@
+/img
+├── about
+│   ├── mission.jpg
+│   └── team
+│       ├── ayman-sadiq.jpg
+│       ├── munzereen-shahid.jpg
+│       ├── sadman-sadik.jpg
+│       └── aman-islam.jpg
+├── banners
+│   ├── home-banner.jpg
+│   ├── course-banner.jpg
+│   ├── admission-banner.jpg
+│   └── english-centre-banner.jpg
+├── blog
+│   ├── hsc-preparation.jpg
+│   ├── english-resources.jpg
+│   ├── career-skills.jpg
+│   ├── admission-test.jpg
+│   ├── online-learning.jpg
+│   └── medical-admission.jpg
+├── courses
+│   ├── hsc
+│   │   ├── science.jpg
+│   │   ├── commerce.jpg
+│   │   └── humanities.jpg
+│   ├── ssc
+│   │   ├── science.jpg
+│   │   ├── commerce.jpg
+│   │   └── humanities.jpg
+│   ├── admission
+│   │   ├── medical.jpg
+│   │   ├── engineering.jpg
+│   │   └── university.jpg
+│   └── skills
+│       ├── design.jpg
+│       ├── development.jpg
+│       ├── language.jpg
+│       └── career.jpg
+├── english-centre
+│   ├── hero.jpg
+│   ├── uttara.jpg
+│   ├── gabtoli.jpg
+│   ├── mirpur.jpg
+│   ├── kids-english.jpg
+│   ├── ielts.jpg
+│   ├── study-abroad.jpg
+│   ├── classroom.jpg
+│   ├── testimonial-1.jpg
+│   ├── testimonial-2.jpg
+│   └── testimonial-3.jpg
+├── hero
+│   ├── elearning.jpg
+│   └── stats-bg.jpg
+├── logo
+│   ├── logo.png
+│   ├── logo-dark.png
+│   ├── favicon.ico
+│   └── mobile-logo.png
+├── menu
+│   ├── class-6.jpg
+│   ├── class-7.jpg
+│   ├── class-8.jpg
+│   ├── class-9.jpg
+│   ├── class-10.jpg
+│   ├── class-11.jpg
+│   ├── class-12.jpg
+│   ├── skills.jpg
+│   ├── admission.jpg
+│   ├── online-batch.jpg
+│   ├── english-centre.jpg
+│   ├── blog.jpg
+│   ├── about.jpg
+│   └── contact.jpg
+├── seo
+│   ├── og-image.jpg
+│   └── twitter-image.jpg
+└── team
+    ├── teacher-1.jpg
+    ├── teacher-2.jpg
+    ├── teacher-3.jpg
+    └── teacher-4.jpg

@@ -1,0 +1,1 @@
+import{au as o}from"./index-B3rPA-Ic.js";function i(n,r){if(n!=null){if(o(n)){n(r);return}try{n.current=r}catch{throw new Error(`Cannot assign value '${r}' to ref '${n}'`)}}}function u(...n){return r=>{n.forEach(t=>i(t,r))}}export{u as m};
